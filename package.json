@@ -1,0 +1,16 @@
+{
+    "name": "aws-appsync-gatsby-sample",
+    "description": "Demonstrates how Gatsby can query an AWS AppSync GraphQL API",
+    "license": "MIT-0",
+    "scripts": {
+        "develop": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve"
+    },
+    "dependencies": {
+        "gatsby": "^2.0.0",
+        "gatsby-source-graphql": "^2.0.3",
+        "react": "^16.5.1",
+        "react-dom": "^16.5.1"
+    }
+}
