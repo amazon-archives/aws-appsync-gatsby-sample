@@ -23,6 +23,7 @@ This sample demonstrates how Gatsby can query an AWS AppSync GraphQL API to disp
 1. Clone this repository and navigate into the directory.
 1. `npm install # install node dependencies`
 1. `AWS_APPSYNC_API_URL="<API url from Settings>" AWS_APPSYNC_API_KEY="<API key from settings>" gatsby develop`
+1. [Screenshot](https://github.com/aws-samples/aws-appsync-gatsby-sample/blob/master/Screenshot.png)
 
 ## Credits
 
